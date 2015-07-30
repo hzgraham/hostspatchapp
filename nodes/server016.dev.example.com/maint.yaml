@@ -1,0 +1,4 @@
+syspatch_mgmt: Patch
+syspatch_skip: 1
+syspatch_yum_excludes: bind*, mariadb*
+syspatch_hostgroup: IT

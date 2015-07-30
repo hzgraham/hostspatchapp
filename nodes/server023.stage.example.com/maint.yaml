@@ -1,0 +1,4 @@
+syspatch_mgmt: Stage Patch
+syspatch_skip: 0
+syspatch_yum_excludes: bind* mariadb* 389*
+syspatch_hostgroup: IT
