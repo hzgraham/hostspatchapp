@@ -1,0 +1,5 @@
+syspatch_mgmt: Patch
+syspatch_skip: 1
+syspatch_yum_excludes: badthings haxpax
+syspatch_hostgroup: IT
+syspatch_owner: the best
